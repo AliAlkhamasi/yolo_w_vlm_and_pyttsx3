@@ -1,6 +1,6 @@
 # Voice-Controlled Vision Assistant
 
-YOLO object detection with VLM and TTS responses
+YOLO object detection with VLM, speech recognition and TTS.
 
 ## Setup
 ```bash
